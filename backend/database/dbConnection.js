@@ -11,3 +11,4 @@ export const dbConnection = async () => {
     console.log(`Some Error occured. ${err}`);
   }
 };
+
